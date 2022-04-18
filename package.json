@@ -1,0 +1,32 @@
+{
+  "name": "util-function",
+  "version": "1.0.0",
+  "description": "js通用方法库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szqlovepk/util-function.git"
+  },
+  "keywords": [
+    "toolkit",
+    "rollup",
+    "typescript"
+  ],
+  "author": "szqlovepk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/szqlovepk/util-function/issues"
+  },
+  "homepage": "https://github.com/szqlovepk/util-function#readme",
+  "devDependencies": {
+    "rollup": "^2.70.2",
+    "rollup-plugin-commonjs": "^10.1.0",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-typescript": "^1.0.1",
+    "tslib": "^2.3.1",
+    "typescript": "^4.6.3"
+  }
+}
