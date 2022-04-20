@@ -1,10 +1,12 @@
 {
-  "name": "util-function",
-  "version": "1.0.0",
+  "name": "utilibs",
+  "version": "1.0.5",
   "description": "js通用方法库",
-  "main": "index.js",
+  "main": "index.ts",
+  "types": "index.d.ts",
   "scripts": {
-    "build": "rollup --config",
+    "build:types": "tsc",
+    "build": "npm run build:types && rollup --config",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
