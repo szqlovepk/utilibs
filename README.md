@@ -2,6 +2,10 @@
 
 js 通用方法库
 
+### 安装
+
+`npm i utilibs or yarn add utilibs`
+
 ### API
 
 - 判断字符串是否是十六进制的颜色值
