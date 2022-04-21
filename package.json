@@ -1,6 +1,6 @@
 {
   "name": "utilibs",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "js通用方法库",
   "main": "index.ts",
   "types": "index.d.ts",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/szqlovepk/util-function.git"
+    "url": "git+https://github.com/szqlovepk/utilibs.git"
   },
   "keywords": [
     "toolkit",
@@ -21,9 +21,9 @@
   "author": "szqlovepk",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/szqlovepk/util-function/issues"
+    "url": "https://github.com/szqlovepk/utilibs/issues"
   },
-  "homepage": "https://github.com/szqlovepk/util-function#readme",
+  "homepage": "https://github.com/szqlovepk/utilibs#readme",
   "devDependencies": {
     "rollup": "^2.70.2",
     "rollup-plugin-commonjs": "^10.1.0",
