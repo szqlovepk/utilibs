@@ -1,4 +1,4 @@
-# util-function
+# utilibs
 
 js 通用方法库
 
