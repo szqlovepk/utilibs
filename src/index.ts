@@ -10,6 +10,7 @@ import removeAllSpace from "./removeAllSpace";
 import isInteger from "./isInteger";
 import arrayUnique from "./arrayUnique";
 import arrIsEqualContent from "./arrIsEqualContent";
+import deepClone from "./deepClone";
 
 export {
   isColor,
@@ -24,4 +25,5 @@ export {
   isInteger,
   arrayUnique,
   arrIsEqualContent,
+  deepClone,
 };

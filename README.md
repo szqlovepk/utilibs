@@ -8,6 +8,9 @@ js 通用方法库
 
 ### API
 
+- 深拷贝
+  ` deepClone(obj: Object): object;`
+
 - 判断字符串是否是十六进制的颜色值
   `isColor: (value: string) => boolean;`
 
