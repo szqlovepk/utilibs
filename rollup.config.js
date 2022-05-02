@@ -6,7 +6,7 @@ export default {
   input: "src/index.ts", // 打包入口
   output: {
     // 打包出口
-    file: "dist/index.ts",
+    file: "dist/index.js",
     format: "umd", // umd是兼容amd/cjs/iife的通用打包格式，适合浏览器
     name: "utilibs",
     sourcemap: true,
